@@ -1,0 +1,53 @@
+.navbar {
+    justify-content: start;
+  }
+
+  .ürünler {
+      text-align: center;
+      color: yellow;
+  }
+
+  .button {
+       background-color: rgb(69, 169, 236);
+       color:aliceblue;
+       border-radius: 7px ;
+       padding:7px ;
+  }
+
+  .navbar {
+    justify-content: start;
+  }
+  
+  a {
+    margin-right: 15px;
+  }
+  
+  a:hover {
+    opacity: 0.6;
+  }
+  
+  .jumbotron {
+    margin-bottom: 0;
+    min-height: 94vh;
+  }
+  
+  img {
+    padding-top: 15px;
+  }
+
+  a {
+    margin-right: 15px;
+  }
+  
+  a:hover {
+    opacity: 0.6;
+  }
+  
+  .jumbotron {
+    margin-bottom: 0;
+    min-height: 94vh;
+  }
+  
+  img {
+    padding-top: 15px;
+  }
